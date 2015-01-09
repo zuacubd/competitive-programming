@@ -1,10 +1,10 @@
     /*
-            Dynamic Programming Approach to solve series sum
+        Problem: Dynamic Programming Approach to solve series sum
 
-             copyrights reserved
-               Md. Zia Ullah
-         Toyohashi University of Technology, Toyohashi, Japan
-                2015/01/09
+        Date: 2015/01/09
+        Author Name: Md. Zia Ullah
+        Institute: Toyohashi University of Technology, Toyohashi, Japan
+        
     */
 
     #include<cstdio>
